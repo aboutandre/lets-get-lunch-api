@@ -11,8 +11,8 @@
     "test": "cross-env NODE_ENV=test mocha built/test --opts built/test/mocha.opts"
   },
   "engines": {
-    "node": "7.6.0",
-    "npm": "4.1.2"
+    "node": "11.7.0",
+    "npm": "6.7.0"
   },
   "author": "",
   "license": "ISC",
