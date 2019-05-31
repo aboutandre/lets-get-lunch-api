@@ -2,3 +2,4 @@ node_modules/
 src/dev-config.json
 src/test-config.json
 built/
+/.idea/
